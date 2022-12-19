@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurbek</h1>
-<h3 align="center">A python backend developer from Tashkent</h3>
+<h3 align="center">Backend developer from Tashkent</h3>
 
 - 🌱 I’m currently learning **Python(Django, Flask)**
 
