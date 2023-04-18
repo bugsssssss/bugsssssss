@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.nurbek.lol](https://www.nurbek.lol)
 
-- ⚡ Fun fact **I have been dreaming about working on big projects, in a big professional team.**
+<!-- - ⚡ Fun fact **** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
