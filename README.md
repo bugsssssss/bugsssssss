@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurbek</h1>
 <h3 align="center">Backend developer from Tashkent</h3>
 
-- 🌱 I’m currently learning **Django & Flask**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **https://t.me/buggsssss**
 
